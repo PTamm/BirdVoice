@@ -1,2 +1,2 @@
-# TrueNote
+# BirdVoice
 A music playing app
